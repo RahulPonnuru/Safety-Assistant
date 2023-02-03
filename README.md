@@ -44,5 +44,5 @@ Nearest Ambulance | Nearest Police Stattions | Nearest tow service
 - Pavan Bhadane
 - Rahul Ponnuru
 - Ayush Patni
-- Rohit Patil
+- Rohit Patil.
 
